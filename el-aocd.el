@@ -40,4 +40,5 @@
       (write-region (point) (point-max) file)
       (find-file-other-window file)))
 
+(provide 'elaocd)
 ;;; advent.el ends here
